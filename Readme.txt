@@ -8,7 +8,7 @@ These are the main 8 exercises of Machine Learning Course of Andrew Ng by using 
 6- K-Mean Clustering
 
 ---- Applications ----
-1- Email Filtering Spam Classification
+1- Emails Filtering / Spam Classification
 2- Anomaly Detection
 3- Dimensionality Reduction
 4- Recommender Systems
